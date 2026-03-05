@@ -1,0 +1,6 @@
+# Compiled binary
+image-mount-demo
+
+# Test output directories
+/tmp/
+*.tar
